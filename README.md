@@ -1,2 +1,2 @@
-# website
-Horatio website and documentation repo:
+# The Horatio documentation
+
